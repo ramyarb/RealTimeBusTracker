@@ -1,4 +1,4 @@
-Title: PReal Time Bus Tracker
+Title: Real Time Bus Tracker
 
 Description:
 In this Program, We have a array of bus stops from MIT to harvard which we will display the movemnt of the bus from MIT to harvard by displaying the marker in the map using mapbox-gl
